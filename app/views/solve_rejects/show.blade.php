@@ -1,0 +1,1 @@
+/var/www/denied_apps/app/views/solve_rejects/show.blade.php

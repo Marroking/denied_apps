@@ -1,0 +1,1 @@
+/var/www/denied_apps/app/views/products/create.blade.php

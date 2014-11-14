@@ -1,0 +1,1 @@
+/var/www/denied_apps/app/views/product_price_lists/edit.blade.php

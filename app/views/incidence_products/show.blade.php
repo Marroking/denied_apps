@@ -1,0 +1,1 @@
+/var/www/denied_apps/app/views/incidence_products/show.blade.php
